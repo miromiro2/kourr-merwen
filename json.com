@@ -6,19 +6,19 @@
 		"tabs": [
 
 			{
-				"title": "الهدف",
+				"title": "Cybertruck",
 				"provider": "youtube",
 				"arguments": [
-					"UCPHd5F0xqoyQxhV67PORKJw",
+					"UC5Tz661BAvojSTWgHe2rSkQ",
 					"channel"
 
 				]
 			}, 
 			{
-				"title": "Football Time",
+				"title": "El Ta8fela",
 				"provider": "youtube",
 				"arguments": [
-					"UCd7IwXypbwxoIsqbQZUDZjg",
+					"UCDrwsgvR4nFZBdFQ3cfAI3Q",
 					"channel"
 
 				]
@@ -42,17 +42,17 @@
 				]
 			},
 			{
-				"title": "TOP Football.TN",
+				"title": "Football.TN",
 				"provider": "youtube",
 				"arguments": [
-					"UCmpaP5sOoAysK02F6cJrPpg",
+					"UCuRpECJ4jkDeZJci8HWSKwg",
 					"channel"
 
 				]
 			},
       
       {
-				"title": "Sport.foot",
+				"title": "koora live",
 				"provider": "youtube",
 				"arguments": [
 					"UCdMFftdC6sFn19ip6hgCj3Q",
@@ -140,7 +140,7 @@
 				"title": "FootballMinds",
 				"provider": "youtube",
 				"arguments": [
-					"UCTdML4t_wl59_3WoWg8jTlQ",
+					"UCzsB7YeFRDfg940yiDmYiWA",
 					"channel"
 
 				]
