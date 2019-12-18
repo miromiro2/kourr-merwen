@@ -52,10 +52,10 @@
 			},
       
       {
-				"title": "koora live",
+				"title": "Nelzy",
 				"provider": "youtube",
 				"arguments": [
-					"UCdMFftdC6sFn19ip6hgCj3Q",
+					"UCZJVrw0NaaXvx96am9e59eA",
 					"channel"
 
 				]
@@ -97,10 +97,10 @@
 				]
 			},
       {
-				"title": "Koora4U",
+				"title": "Mazaya",
 				"provider": "youtube",
 				"arguments": [
-					"UC8D2Nc8E26cw7Jj9SJIFo6Q",
+					"UCzsB7YeFRDfg940yiDmYiWA",
 					"channel"
 
 				]
@@ -108,10 +108,10 @@
       
       
       {
-				"title": "Sky Football",
+				"title": "kariZma",
 				"provider": "youtube",
 				"arguments": [
-					"UC7fUgGpMpA4tHqeBFa-aPlQ",
+					"UCuRpECJ4jkDeZJci8HWSKwg",
 					"channel"
 
 				]
@@ -146,19 +146,19 @@
 				]
 			},
 			{
-				"title": "Football Legion",
+				"title": "Serie A",
 				"provider": "youtube",
 				"arguments": [
-					"UCwwKf9PggWRo6pkigs74MDA",
+					"UCBJeMCIeLQos7wacox4hmLQ",
 					"channel"
 
 				]
 			},
 			{
-				"title": "Africa Champions",
+				"title": "foot24",
 				"provider": "youtube",
 				"arguments": [
-					"UCoBR0t1dgJj6hRbHASrmyFQ",
+					"UCuPDFRItTEn34XWqAcdCgNg",
 					"channel"
 
 				]
