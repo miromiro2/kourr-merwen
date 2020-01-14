@@ -45,7 +45,7 @@
 				"title": "Football.TN",
 				"provider": "youtube",
 				"arguments": [
-					"UCuRpECJ4jkDeZJci8HWSKwg",
+					"UCLo2xigvxv9ksxp78AyCBTw",
 					"channel"
 
 				]
@@ -60,11 +60,31 @@
 
 				]
 			},
-      {
-				"title": "الدوري المصري",
+			
+			{
+				"title": "CouNTeR ATTACK",
 				"provider": "youtube",
 				"arguments": [
-					"UCB36jBOj5L5YcwUGj82rOCQ",
+					"UCBShIRCIylccDjypGvrUZtA",
+					"channel"
+
+				]
+			},
+			
+			{
+				"title": "Arabs",
+				"provider": "youtube",
+				"arguments": [
+					"UCX5KBP87cVioV_pkcOsuKkQ",
+					"channel"
+
+				]
+			},
+      {
+				"title": "Kora Art",
+				"provider": "youtube",
+				"arguments": [
+					"UCDbBkw_HyG0X6itLHhUlx_g",
 					"channel"
 
 				]
@@ -116,16 +136,6 @@
 
 				]
 			},
-      
-     {
-				"title": "Be sport Tv",
-				"provider": "youtube",
-				"arguments": [
-					"UCRJ2V0YiqaLBeHTFoOEbk8Q",
-					"channel"
-
-				]
-			}, 
       
 			{
 				"title": "YB FOOTBALL",
