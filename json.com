@@ -27,7 +27,7 @@
 				"title": "koraRocet",
 				"provider": "youtube",
 				"arguments": [
-					"UC8ud_349w5ryCuq6Ejf8nLA",
+					"UC1bUvUe8V4RF11Vr4Sntb3A",
 					"channel"
 
 				]
@@ -36,7 +36,7 @@
 				"title": "Gsm AToZ",
 				"provider": "youtube",
 				"arguments": [
-					"UCBPxmiKCicNvFWAzaadFN0w",
+					"UCgKp-lfV2ArzRQJ6CisUv7w",
 					"channel"
 
 				]
@@ -73,7 +73,7 @@
 				"title": "Foot",
 				"provider": "youtube",
 				"arguments": [
-					"UCv3pLbsL7YtjugU4ZIXqg7Q",
+					"UCQsH5XtIc9hONE1BQjucM0g",
 					"channel"
 
 				]
@@ -100,7 +100,7 @@
 				"title": "Mazaya",
 				"provider": "youtube",
 				"arguments": [
-					"UCzsB7YeFRDfg940yiDmYiWA",
+					"UCgKp-lfV2ArzRQJ6CisUv7w",
 					"channel"
 
 				]
@@ -111,7 +111,7 @@
 				"title": "kariZma",
 				"provider": "youtube",
 				"arguments": [
-					"UCuRpECJ4jkDeZJci8HWSKwg",
+					"UCt9a_qP9CqHCNwilf-iULag",
 					"channel"
 
 				]
@@ -121,7 +121,7 @@
 				"title": "Be sport Tv",
 				"provider": "youtube",
 				"arguments": [
-					"UCFzNxaxHBurA4w9hTsXNxHg",
+					"UCRJ2V0YiqaLBeHTFoOEbk8Q",
 					"channel"
 
 				]
@@ -140,7 +140,7 @@
 				"title": "FootballMinds",
 				"provider": "youtube",
 				"arguments": [
-					"UCzsB7YeFRDfg940yiDmYiWA",
+					"UCqQCBfIkVgRexwezztO-Abg",
 					"channel"
 
 				]
