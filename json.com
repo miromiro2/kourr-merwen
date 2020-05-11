@@ -1,3 +1,202 @@
+-----------
+{
+     "title":"إعادات",
+    "drawable":"",
+    "submenu":"",
+    "iap":false,
+    "tabs":[
+	  {
+        "title":"السنة النبوية",
+        "provider":"youtube",
+        "arguments":[
+          "UCROKYPep-UuODNwyipe6JMw",
+          "channel"
+
+        ]
+     }
+	    ,         
+	 {
+        "title":"السعودية",
+        "provider":"youtube",
+        "arguments":[
+          "UC2mWeEHv9IY6i74okFMkGPw",
+          "channel"
+
+        ]
+     }
+	    ,
+	    	 {
+        "title":"السعودية الإخبارية",
+        "provider":"youtube",
+        "arguments":[
+          "UCV01ajGl6nt09h40iDoHDNg",
+          "channel"
+
+        ]
+     }
+	    ,
+ {
+        "title":"SBC Channel",
+        "provider":"youtube",
+        "arguments":[
+          "UCfG0mfIwxrZn1MjsA994oAg",
+          "channel"
+
+        ]
+     }
+	    ,
+{
+        "title":"Nat Geo Abu Dhabi",
+        "provider":"youtube",
+        "arguments":[
+          "UCLiTe0aOHShx7hXGyqZ9UIw",
+          "channel"
+
+        ]
+     }
+	           ,
+ {
+        "title":"France 24",
+        "provider":"youtube",
+        "arguments":[
+          "UCdTyuXgmJkG_O8_75eqej-w",
+          "channel"
+
+        ]
+     },		   
+	 {
+        "title":"الحدث",
+        "provider":"youtube",
+        "arguments":[
+          "UCrj5BGAhtWxDfqbza9T9hqA",
+          "channel"
+
+        ]
+     },
+	 {
+        "title":"Al Jazeera",
+        "provider":"youtube",
+        "arguments":[
+          "UCfiwzLy-8yKzIbsmZTzxDgw",
+          "channel"
+
+        ]
+     },
+	 {
+        "title":"قناة العربية ",
+        "provider":"youtube",
+        "arguments":[
+          "UCahpxixMCwoANAftn6IxkTg",
+          "channel"
+
+        ]
+     }
+	    ]
+		},	    
+	     	 {
+        "title":"Jeddah Radio",
+        "provider":"youtube",
+        "arguments":[
+          "UC2012dTs3N2LrkOeI_QvswQ",
+          "channel"
+
+        ]
+     } ,    	
+ {
+        "title":"AlQuranHD",
+        "provider":"youtube",
+        "arguments":[
+          "UCraPI8sg-eiNzUrurxhKeEQ",
+          "channel"
+
+        ]
+     } ,	    
+	     	 
+     {
+        "title":"إذاعةQuran",
+        "provider":"youtube",
+        "arguments":[
+          "UCrZNAOv_KBLfb-3TFgxIZqg",
+          "channel"
+
+        ]
+     },
+	 {
+        "title":"Quran channel",
+        "provider":"youtube",
+        "arguments":[
+          "UCos52azQNBgW63_9uDJoPDA",
+          "channel"
+
+        ]
+     },
+  {
+        "title":"MBC1",
+        "provider":"youtube",
+        "arguments":[
+          "UCPvObfhnwu_QNi6mc4z5UPQ",
+          "channel"
+
+        ]
+     },
+	       {
+        "title":"alquanat 9",
+        "provider":"youtube",
+        "arguments":[
+          "UCd7iPWvZCpXMIarpFhn_Bgg",
+          "channel"
+
+        ]
+     },
+	      {
+        "title":"Sport",
+        "provider":"youtube",
+        "arguments":[
+          "UCLo2xigvxv9ksxp78AyCBTw",
+          "channel"
+
+        ]
+     },
+	       {
+        "title":"قناة اقرأ",
+        "provider":"youtube",
+        "arguments":[
+          "UCiC_h4iC9s7Ddr3CT82_EpA",
+          "channel"
+
+        ]
+     },
+		  {
+        "title":"قناة زاد العلمية",
+        "provider":"youtube",
+        "arguments":[
+          "UCOll3M-P7oKs5cSrQ9ytt6g",
+          "channel"
+
+        ]
+     },
+	 {
+        "title":"قناة الرسالة",
+        "provider":"youtube",
+        "arguments":[
+          "UCBVUg4nQTryjzB2mQRNTJIw",
+          "channel"
+
+        ]
+     },
+	
+	 {
+        "title":"إبن عثيمين",
+        "provider":"youtube",
+        "arguments":[
+          "UCtF3YygTiodnYSw8vD3UJtQ",
+          "channel"
+
+        ]
+     },
+------------
+
+
 [{
 		"title": "ملخّصات و أهداف",
 		"drawable": "",
