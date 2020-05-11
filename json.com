@@ -1,3 +1,41 @@
+ {
+        "title":"Jeddah Radio",
+        "provider":"youtube",
+        "arguments":[
+          "UC2012dTs3N2LrkOeI_QvswQ",
+          "channel"
+
+        ]
+     } ,    	
+ {
+        "title":"AlQuranHD",
+        "provider":"youtube",
+        "arguments":[
+          "UCraPI8sg-eiNzUrurxhKeEQ",
+          "channel"
+
+        ]
+     } ,	    
+	     	 
+     {
+        "title":"إذاعةQuran",
+        "provider":"youtube",
+        "arguments":[
+          "UCrZNAOv_KBLfb-3TFgxIZqg",
+          "channel"
+
+        ]
+     },
+	 {
+        "title":"Quran channel",
+        "provider":"youtube",
+        "arguments":[
+          "UCos52azQNBgW63_9uDJoPDA",
+          "channel"
+
+        ]
+     },
+
 -----------
 {
      "title":"إعادات",
